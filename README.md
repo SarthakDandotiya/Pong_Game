@@ -1,4 +1,4 @@
-# Pong
+# Pong Game built in Rust
 
 # A simple Pong game built with Piston in Rust
 
